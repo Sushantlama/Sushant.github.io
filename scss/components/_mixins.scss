@@ -14,3 +14,9 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+// Transition property
+@mixin transitionProperty {
+  transition-duration: 1000ms;
+  transition-property: all;
+}

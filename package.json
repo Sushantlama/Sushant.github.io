@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-v6",
   "version": "1.0.0",
-  "description": "building my personal portfolia using bootstrap v5 with sass",
+  "description": "building my personal portfolio using bootstrap v5 with sass",
   "main": "index.js",
   "scripts": {
    "compile:sass":"sass --watch scss:assets/css"
